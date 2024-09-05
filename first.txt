@@ -1,4 +1,4 @@
-HELLO THERE
-WELCOME TO OUR WEBSITE
-GRATEFUL TO HAVE YOU ON OUR PLATFORM
+
+thank you
+grateful to have you on the platform
 >>>>>>> bug-fix
